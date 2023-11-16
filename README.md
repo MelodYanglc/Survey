@@ -13,9 +13,10 @@
 <a href="https://github.com/nie-lang/UDIS2">UDIS++</a> <br />
 <a href="https://github.com/dut-media-lab/Image-Stitching">Jia at al</a> <br />
 
-## Image Stitching algrithoms
+## Image rectanguling algrithoms
 <a href="https://github.com/nie-lang/DeepRectangling">nie at al</a> <br />
 <a href="https://github.com/nie-lang/DeepRectangling">nie at al</a> <br />
+<a href="https://github.com/KangLiao929/RecRecNet">RecRecNet</a> <br />
 
 ## DataSets
 <a href="https://drive.google.com/file/d/19d2ylBUPcMQBb_MNBBGl9rCAS7SU-oGm/view?usp=sharing">Coordinate-v2</a> <br />
@@ -23,5 +24,6 @@
 <a href="https://github.com/lcmhoang/hmg-dynamics">hmg-dynamics</a> <br />
 <a href="https://drive.google.com/file/d/19d2ylBUPcMQBb_MNBBGl9rCAS7SU-oGm/view?usp=sharing">hmg-BasesHomo</a> <br />
 <a href="https://github.com/nie-lang/DeepRectangling#dataset-dir-d">dir-d</a> <br />
+<a href="https://github.com/KangLiao929/RecRecNet">RecRecNet-D</a> <br />
 
 
