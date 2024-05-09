@@ -20,7 +20,8 @@
 <a href="https://github.com/nie-lang/DeepRectangling">nie at al</a> <br />
 <a href="https://github.com/nie-lang/DeepRectangling">nie at al</a> <br />
 <a href="https://github.com/KangLiao929/RecRecNet">RecRecNet</a> <br />
-<a href="https://github.com/KangLiao929/RecRecNet">RecRecNet</a> <br />
+<a href="https://github.com/MelodYanglc/TransRectangling">Rep-RecNet</a> <br />
+<a href="https://github.com/lhaippp/RecDiffusion">RecDiffusion</a> <br />
 
 
 ## DataSets
